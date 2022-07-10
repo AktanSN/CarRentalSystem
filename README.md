@@ -1,6 +1,6 @@
 # CarRentalSystem
 
-## Java’da araç kiralama portalı yapılması.
+
 
     Sisteme araç kiralayan firmalar eklenecek.
     Firmalar bulundukları şehri sisteme girmelidir.
