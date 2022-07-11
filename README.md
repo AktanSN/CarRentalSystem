@@ -35,10 +35,11 @@
 
 ## Firma İşlemleri
 ````
-Giriş yaparken veritabanı sorgulamaları yapılıyor ve kayıt mevcutsa giriş başarılı mesajı alınıyor.Örnek olarak giriş yaptığımız "Firma A" kendi araçlarını
-kiralayan kullanıcıların bilgi dökümünü rezervasyonlar kısmından inceleyebiliyor. Araç Listesi sekmesinden ise firmaya ait eklenmiş araçların bilgilerini
-inceleyebiliyor ve yeni araç ekleyip silebiliyor. Hesap kısmında ise firmaya ait üyelik bilgileri görünüyor ve güncellenebiliyor.İsteğe göre hesaplarını 
-kapatabiliyorlar.
+Giriş yaparken veritabanı sorgulamaları yapılıyor ve kayıt mevcutsa giriş başarılı mesajı alınıyor.
+Örnek olarak giriş yaptığımız "Firma A" kendi araçlarını kiralayan kullanıcıların bilgi dökümünü rezervasyonlar 
+kısmından inceleyebiliyor. Araç Listesi sekmesinden ise firmaya ait eklenmiş araçların bilgilerini
+inceleyebiliyor ve yeni araç ekleyip silebiliyor. Hesap kısmında ise firmaya ait üyelik bilgileri görünüyor ve 
+güncellenebiliyor.İsteğe göre hesaplarını kapatabiliyorlar.
 ````
 ![Photo](https://user-images.githubusercontent.com/58556840/178132013-3dc85461-153f-4388-beb3-16315140f452.png)
 ![Photo](https://user-images.githubusercontent.com/58556840/178132017-57278a74-00ae-4e7c-8896-584ec34869cd.png)
@@ -48,9 +49,11 @@ kapatabiliyorlar.
 
 ## Kullanıcı İşlemleri
 ````
-Kullanıcılar araçlar sekmesinde uygulamaya kayıtlı tüm araçların listesini müsaitlik durumlarını ve hangi şirkete ait olduklarını görebiliyorlar.İsteklerine göre
-arama yapabilmeleri için bir filtreleme butonu da mevcut.Kiralama yapmak istedikleri tarihi girip kiralama butonuna bastıklarında eğer araç müsait ise kullanıcı adına
-rezervasyon işlemi yapılıyor. Profil sekmesinde ise kullanıcı üyelik bilgilerini inceleyip güncelleyebiliyor ve yaptığı kiralama geçmişine ait bilgileri görebiliyor.
+Kullanıcılar araçlar sekmesinde uygulamaya kayıtlı tüm araçların listesini müsaitlik durumlarını ve hangi 
+şirkete ait olduklarını görebiliyorlar.İsteklerine göre arama yapabilmeleri için bir filtreleme butonu da mevcut.
+Kiralama yapmak istedikleri tarihi girip kiralama butonuna bastıklarında eğer araç müsait ise kullanıcı adına
+rezervasyon işlemi yapılıyor. Profil sekmesinde ise kullanıcı üyelik bilgilerini inceleyip güncelleyebiliyor 
+ve yaptığı kiralama geçmişine ait bilgileri görebiliyor.
 ````
 ![Photo](https://user-images.githubusercontent.com/58556840/178132014-5b476249-2d35-40f7-a048-c3f42499a41c.png)
 
